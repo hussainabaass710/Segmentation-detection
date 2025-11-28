@@ -1,0 +1,16 @@
+NOTICE
+
+This project uses the ODMSemantic3D dataset, which is licensed under the 
+Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0).
+
+Dataset Source:
+- ODMSemantic3D by OpenDroneMap Contributors
+- https://github.com/OpenDroneMap/ODMSemantic3D
+- License: CC BY-SA 4.0 (see LICENSES/DATASET_CC-BY-SA-4.0.md)
+
+The dataset files are located in:
+- data/ODMSemantic3D/
+- data/ODMSemantic3D_repo/
+
+This project's source code is licensed under the MIT License (see LICENSE file).
+
